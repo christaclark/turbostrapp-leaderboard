@@ -1,0 +1,30 @@
+.block-title p {
+    display: inline-block;
+    font-size: 12px;
+    line-height: 1.4;
+    margin: 0;
+    padding: 10px 16px 7px;
+    font-weight: normal;
+    color: #fff;
+}
+
+.block-title {
+    background-color: #4C5572;
+    border-bottom: 1px solid #eaedf1;
+
+}
+
+
+h2, .sorting, .orange {
+	color:  #D97223;
+	font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
+
+h2, .sorting,.blue {
+	color: #1bbae1;
+	font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+}
